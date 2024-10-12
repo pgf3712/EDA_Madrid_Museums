@@ -1,0 +1,36 @@
+Museo,Género,Renta Anual (€),Nivel de Estudios,Edad,Locales (%),Nacionales (%),Internacionales (%),Visitantes por Grupo,Porcentaje Locales (%),Porcentaje Nacionales (%),Porcentaje Internacionales (%)
+Museo Nacional de Ciencias Naturales,Masculino,"<20,000€",Educación Primaria,>50,47,48,18,160,41.5929203539823,42.47787610619469,15.929203539823009
+Museo Nacional de Ciencias Naturales,Masculino,"<20,000€",Educación Secundaria,>50,48,24,35,143,44.85981308411215,22.429906542056074,32.71028037383177
+Museo Nacional de Ciencias Naturales,Masculino,">40,000€",Postgrado o Doctorado,36-50,44,41,33,73,37.28813559322034,34.74576271186441,27.966101694915253
+Museo Nacional de Ciencias Naturales,Femenino,">40,000€",Educación Primaria,<18,50,35,18,50,48.54368932038835,33.980582524271846,17.475728155339805
+Museo Nacional de Ciencias Naturales,Femenino,">40,000€",Educación Secundaria,36-50,42,28,11,21,51.85185185185185,34.5679012345679,13.580246913580247
+Museo Nacional de Ciencias Naturales,Masculino,">40,000€",Educación Secundaria,<18,34,33,15,99,41.46341463414634,40.243902439024396,18.29268292682927
+Museo Nacional de Ciencias Naturales,Masculino,"<20,000€",Educación Primaria,<18,40,44,35,111,33.61344537815126,36.97478991596639,29.411764705882355
+Museo Nacional de Ciencias Naturales,Masculino,">40,000€",Estudios Universitarios,>50,28,11,25,164,43.75,17.1875,39.0625
+Museo Nacional de Ciencias Naturales,Femenino,"<20,000€",Estudios Universitarios,>50,44,14,27,171,51.76470588235295,16.470588235294116,31.76470588235294
+Museo Nacional de Ciencias Naturales,Femenino,"<20,000€",Educación Primaria,36-50,44,46,32,29,36.0655737704918,37.704918032786885,26.229508196721312
+Museo Nacional de Ciencias Naturales,Femenino,"<20,000€",Educación Primaria,<18,64,22,24,30,58.18181818181818,20.0,21.818181818181817
+Museo Nacional de Ciencias Naturales,Masculino,">40,000€",Educación Secundaria,>50,49,21,10,70,61.25000000000001,26.25,12.5
+Museo Nacional de Ciencias Naturales,Femenino,"<20,000€",Educación Primaria,36-50,28,28,17,44,38.35616438356164,38.35616438356164,23.28767123287671
+Museo Nacional de Ciencias Naturales,Femenino,"<20,000€",Postgrado o Doctorado,18-35,36,30,27,85,38.70967741935484,32.25806451612903,29.03225806451613
+Museo Nacional de Ciencias Naturales,Masculino,"<20,000€",Educación Secundaria,<18,56,22,14,22,60.86956521739131,23.91304347826087,15.217391304347828
+Museo Nacional de Ciencias Naturales,Femenino,">40,000€",Estudios Universitarios,>50,57,36,20,176,50.442477876106196,31.858407079646017,17.699115044247787
+Museo Nacional de Ciencias Naturales,Masculino,"<20,000€",Postgrado o Doctorado,>50,46,37,24,105,42.99065420560748,34.57943925233645,22.429906542056074
+Museo Nacional de Ciencias Naturales,Femenino,"<20,000€",Educación Secundaria,36-50,58,40,39,129,42.33576642335766,29.1970802919708,28.467153284671532
+Museo Nacional de Ciencias Naturales,Masculino,">40,000€",Postgrado o Doctorado,36-50,36,23,36,18,37.89473684210527,24.210526315789473,37.89473684210527
+Museo Nacional de Ciencias Naturales,Masculino,">40,000€",Educación Primaria,18-35,33,21,37,37,36.26373626373626,23.076923076923077,40.65934065934066
+Museo Nacional de Ciencias Naturales,Femenino,"<20,000€",Educación Secundaria,<18,44,34,19,160,45.36082474226804,35.051546391752574,19.587628865979383
+Museo Nacional de Ciencias Naturales,Femenino,"<20,000€",Educación Secundaria,<18,51,22,20,102,54.83870967741935,23.655913978494624,21.50537634408602
+Museo Nacional de Ciencias Naturales,Femenino,"20,000€ - 40,000€",Educación Primaria,>50,54,15,34,29,52.42718446601942,14.563106796116504,33.00970873786408
+Museo Nacional de Ciencias Naturales,Masculino,"<20,000€",Educación Secundaria,18-35,23,48,35,74,21.69811320754717,45.28301886792453,33.0188679245283
+Museo Nacional de Ciencias Naturales,Femenino,"<20,000€",Estudios Universitarios,>50,43,17,17,7,55.84415584415584,22.07792207792208,22.07792207792208
+Museo Nacional de Ciencias Naturales,Femenino,"<20,000€",Estudios Universitarios,36-50,48,46,35,11,37.2093023255814,35.65891472868217,27.131782945736433
+Museo Nacional de Ciencias Naturales,Masculino,"<20,000€",Educación Primaria,<18,65,32,12,172,59.63302752293578,29.357798165137616,11.009174311926607
+Museo Nacional de Ciencias Naturales,Femenino,"<20,000€",Estudios Universitarios,36-50,31,36,20,9,35.63218390804598,41.37931034482759,22.988505747126435
+Museo Nacional de Ciencias Naturales,Femenino,">40,000€",Educación Primaria,<18,25,46,20,43,27.472527472527474,50.54945054945055,21.978021978021978
+Museo Nacional de Ciencias Naturales,Femenino,">40,000€",Postgrado o Doctorado,36-50,55,26,27,87,50.92592592592593,24.074074074074073,25.0
+Museo Nacional de Ciencias Naturales,Masculino,"<20,000€",Educación Primaria,>50,44,39,35,37,37.28813559322034,33.05084745762712,29.66101694915254
+Museo Nacional de Ciencias Naturales,Masculino,">40,000€",Educación Primaria,18-35,45,18,28,48,49.45054945054945,19.78021978021978,30.76923076923077
+Museo Nacional de Ciencias Naturales,Masculino,"20,000€ - 40,000€",Educación Secundaria,18-35,41,48,20,29,37.61467889908257,44.03669724770643,18.34862385321101
+Museo Nacional de Ciencias Naturales,Femenino,">40,000€",Educación Primaria,36-50,49,35,11,38,51.578947368421055,36.84210526315789,11.578947368421053
+Museo Nacional de Ciencias Naturales,Femenino,">40,000€",Estudios Universitarios,18-35,28,23,19,144,40.0,32.857142857142854,27.142857142857142

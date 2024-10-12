@@ -1,0 +1,41 @@
+Museo,Género,Renta Anual (€),Nivel de Estudios,Edad,Locales (%),Nacionales (%),Internacionales (%),Visitantes por Grupo,Porcentaje Locales (%),Porcentaje Nacionales (%),Porcentaje Internacionales (%)
+Museo Thyssen-Bornemisza,Masculino,"<20,000€",Educación Primaria,>50,61,22,18,4,60.396039603960396,21.782178217821784,17.82178217821782
+Museo Thyssen-Bornemisza,Masculino,"20,000€ - 40,000€",Postgrado o Doctorado,>50,47,44,27,49,39.83050847457627,37.28813559322034,22.88135593220339
+Museo Thyssen-Bornemisza,Masculino,">40,000€",Educación Primaria,36-50,20,42,26,140,22.727272727272727,47.72727272727273,29.545454545454547
+Museo Thyssen-Bornemisza,Femenino,"20,000€ - 40,000€",Educación Secundaria,18-35,64,27,13,46,61.53846153846154,25.961538461538463,12.5
+Museo Thyssen-Bornemisza,Femenino,"20,000€ - 40,000€",Estudios Universitarios,36-50,40,32,20,88,43.47826086956522,34.78260869565217,21.73913043478261
+Museo Thyssen-Bornemisza,Masculino,"<20,000€",Estudios Universitarios,<18,31,18,38,61,35.63218390804598,20.689655172413794,43.67816091954023
+Museo Thyssen-Bornemisza,Femenino,"<20,000€",Educación Primaria,<18,40,15,15,97,57.14285714285714,21.428571428571427,21.428571428571427
+Museo Thyssen-Bornemisza,Femenino,">40,000€",Educación Primaria,>50,53,36,31,124,44.166666666666664,30.0,25.833333333333336
+Museo Thyssen-Bornemisza,Masculino,">40,000€",Educación Primaria,<18,37,12,30,141,46.835443037974684,15.18987341772152,37.9746835443038
+Museo Thyssen-Bornemisza,Masculino,"20,000€ - 40,000€",Educación Primaria,<18,41,28,16,45,48.23529411764706,32.94117647058823,18.823529411764707
+Museo Thyssen-Bornemisza,Masculino,"<20,000€",Educación Primaria,>50,66,35,35,149,48.529411764705884,25.735294117647058,25.735294117647058
+Museo Thyssen-Bornemisza,Masculino,"<20,000€",Postgrado o Doctorado,36-50,48,29,29,136,45.28301886792453,27.358490566037734,27.358490566037734
+Museo Thyssen-Bornemisza,Femenino,"<20,000€",Educación Primaria,<18,61,15,36,145,54.46428571428571,13.392857142857142,32.142857142857146
+Museo Thyssen-Bornemisza,Femenino,"20,000€ - 40,000€",Educación Primaria,<18,66,38,38,62,46.478873239436616,26.76056338028169,26.76056338028169
+Museo Thyssen-Bornemisza,Femenino,"20,000€ - 40,000€",Postgrado o Doctorado,<18,66,17,38,119,54.54545454545454,14.049586776859504,31.40495867768595
+Museo Thyssen-Bornemisza,Masculino,"<20,000€",Educación Secundaria,>50,58,12,15,126,68.23529411764706,14.117647058823529,17.647058823529413
+Museo Thyssen-Bornemisza,Masculino,">40,000€",Postgrado o Doctorado,<18,42,15,27,188,50.0,17.857142857142858,32.142857142857146
+Museo Thyssen-Bornemisza,Femenino,"<20,000€",Estudios Universitarios,36-50,39,34,24,152,40.20618556701031,35.051546391752574,24.742268041237114
+Museo Thyssen-Bornemisza,Masculino,"20,000€ - 40,000€",Educación Secundaria,<18,27,44,34,49,25.71428571428571,41.904761904761905,32.38095238095238
+Museo Thyssen-Bornemisza,Femenino,"20,000€ - 40,000€",Postgrado o Doctorado,36-50,50,40,24,87,43.859649122807014,35.08771929824561,21.052631578947366
+Museo Thyssen-Bornemisza,Masculino,"20,000€ - 40,000€",Educación Primaria,18-35,65,28,13,159,61.32075471698113,26.41509433962264,12.264150943396226
+Museo Thyssen-Bornemisza,Femenino,"<20,000€",Educación Primaria,36-50,57,39,21,72,48.717948717948715,33.33333333333333,17.94871794871795
+Museo Thyssen-Bornemisza,Masculino,">40,000€",Educación Secundaria,18-35,36,14,18,68,52.94117647058824,20.588235294117645,26.47058823529412
+Museo Thyssen-Bornemisza,Femenino,"20,000€ - 40,000€",Educación Secundaria,<18,42,10,34,13,48.837209302325576,11.627906976744185,39.53488372093023
+Museo Thyssen-Bornemisza,Masculino,"<20,000€",Educación Secundaria,>50,50,27,15,182,54.347826086956516,29.347826086956523,16.304347826086957
+Museo Thyssen-Bornemisza,Masculino,">40,000€",Estudios Universitarios,36-50,26,39,21,193,30.23255813953488,45.348837209302324,24.418604651162788
+Museo Thyssen-Bornemisza,Femenino,"20,000€ - 40,000€",Educación Secundaria,18-35,65,13,36,188,57.01754385964912,11.403508771929824,31.57894736842105
+Museo Thyssen-Bornemisza,Femenino,"<20,000€",Estudios Universitarios,<18,23,10,25,86,39.6551724137931,17.24137931034483,43.103448275862064
+Museo Thyssen-Bornemisza,Masculino,">40,000€",Estudios Universitarios,>50,43,11,20,97,58.108108108108105,14.864864864864865,27.027027027027028
+Museo Thyssen-Bornemisza,Femenino,"<20,000€",Postgrado o Doctorado,36-50,36,49,30,43,31.30434782608696,42.608695652173914,26.08695652173913
+Museo Thyssen-Bornemisza,Femenino,"20,000€ - 40,000€",Educación Primaria,>50,59,43,38,136,42.142857142857146,30.714285714285715,27.142857142857142
+Museo Thyssen-Bornemisza,Femenino,">40,000€",Postgrado o Doctorado,<18,52,48,15,34,45.21739130434783,41.73913043478261,13.043478260869565
+Museo Thyssen-Bornemisza,Masculino,">40,000€",Estudios Universitarios,<18,42,42,37,15,34.710743801652896,34.710743801652896,30.57851239669421
+Museo Thyssen-Bornemisza,Masculino,"20,000€ - 40,000€",Educación Primaria,<18,49,37,38,65,39.516129032258064,29.838709677419356,30.64516129032258
+Museo Thyssen-Bornemisza,Masculino,"<20,000€",Educación Primaria,36-50,20,34,19,98,27.397260273972602,46.57534246575342,26.027397260273972
+Museo Thyssen-Bornemisza,Masculino,"<20,000€",Educación Secundaria,36-50,40,21,27,55,45.45454545454545,23.863636363636363,30.681818181818183
+Museo Thyssen-Bornemisza,Masculino,"<20,000€",Educación Primaria,36-50,33,38,25,9,34.375,39.58333333333333,26.041666666666668
+Museo Thyssen-Bornemisza,Masculino,"<20,000€",Postgrado o Doctorado,>50,61,39,31,36,46.56488549618321,29.770992366412212,23.66412213740458
+Museo Thyssen-Bornemisza,Masculino,">40,000€",Educación Primaria,<18,31,27,27,101,36.470588235294116,31.76470588235294,31.76470588235294
+Museo Thyssen-Bornemisza,Femenino,">40,000€",Educación Primaria,36-50,68,44,30,144,47.88732394366197,30.985915492957744,21.12676056338028

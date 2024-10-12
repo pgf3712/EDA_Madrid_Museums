@@ -1,0 +1,83 @@
+﻿OBJECTID,NOMBRE,CALLE,NUM,LOCALIDAD,CODIGO-POSTAL,BARRIO,DISTRITO,TELEFONO,EMAIL,x,y
+1,Casa Museo Lope de Vega,CERVANTES,11,MADRID,28014,CORTES,CENTRO,914 299 216,,440824.999970966,4473983.00012034
+2,Casita - Museo del Ratón Pérez,ARENAL,8,MADRID,28013,SOL,CENTRO,915 226 968,info@casamuseoratonperez.es,440253.999977564,4474494.00010149
+3,Castillo de la Alameda,ANTONIO SANCHA,1,MADRID,28042,ALAMEDA DE OSUNA,BARAJAS,"913 667 415                                                                         
+",castilloalameda@madrid.es,449698.000021244,4478802.00008213
+4,Casón del Buen Retiro,ALFONSO XII,28,MADRID,28014,LOS JERONIMOS,RETIRO,913 304 016 / 913 302 821,biblioteca@museodelprado.es,441635.000010087,4474285.00009444
+5,Centro Social y Cultural La Casa Encendida,VALENCIA,2,MADRID,28012,EMBAJADORES,CENTRO,"902 430 322                                                                 
+",lacasaencendida@montemadrid.es,440621.999970984,4473051.00009968
+6,Ermita de San Antonio de la Florida (Museo),SAN ANTONIO DE LA FLORIDA,5,MADRID,28008,CASA DE CAMPO,MONCLOA-ARAVACA,915 420 722,sanantonio@madrid.es,438439.000031859,4475212.0001282
+7,Espacio Fundación Telefónica,FUENCARRAL,3,MADRID,28004,UNIVERSIDAD,CENTRO,915 808 700 (información general) / 915 226 645 (visitas guiadas y talleres),,440590.000029872,4474865.00007363
+8,Fundación AMYC (Arte Moderno y Contemporáneo). Casa - Museo Fuente del Rey,FUENTE DEL REY,11,MADRID,28023,ARAVACA,MONCLOA-ARAVACA,913 579 116,info@fundacionamyc.org,434662.999972624,4478596.00012654
+9,Monasterio de las Descalzas Reales,DESCALZAS,3,MADRID,28013,SOL,CENTRO,"914 548 700                                                             
+",,440197.000031719,4474626.00008402
+10,Museo ABC,AMANIEL,29,MADRID,28015,UNIVERSIDAD,CENTRO,917 588 379,info_museo@abc.es,439921.999992804,4475646.00006967
+11,Museo Africano Mundo Negro,ARTURO SORIA,101,MADRID,28043,SAN JUAN BAUTISTA,CIUDAD LINEAL,914 152 412,info@museoafricano.es,444755.000014007,4477849.00012943
+12,Museo Arqueológico Nacional,SERRANO,13,MADRID,28001,RECOLETOS,SALAMANCA,"915 777 912                                                                     
+                                                                                     
+",,441711.000001755,4475173.00008745
+13,Museo Casa de la Moneda,DOCTOR ESQUERDO,36,MADRID,28028,GOYA,SALAMANCA,"915 666 544                                 
+",museo@fnmt.es,443235.000011304,4474878.00013573
+14,Museo Cerralbo,VENTURA RODRIGUEZ,17,MADRID,28008,ARGUELLES,MONCLOA-ARAVACA,915 473 646 / 47,museo.cerralbo@mecd.es,439379.99998528,4475039.00010112
+15,Museo EMT,MAURICIO LEGENDRE,40,MADRID,28046,CASTILLA,CHAMARTIN,914 068 810,,442095.999989537,4481278.00013193
+16,Museo Geominero,RIOS ROSAS,23,MADRID,28003,RIOS ROSAS,CHAMBERI,913 495 759,m.geominero@igme.es,440662.999994224,4477057.00007224
+17,Museo ICO,ZORRILLA,3,MADRID,28014,CORTES,CENTRO,914 201 242,museoico@ico.es,440915.000007667,4474456.00011791
+18,Museo Los Caños del Peral. Estación de Metro Ópera,ISABEL II,1,MADRID,28013,PALACIO,CENTRO,902 444 403 / 917 796 399 ,,439943.000015304,4474575.00010991
+19,Museo Lázaro Galdiano,SERRANO,122,MADRID,28006,CASTELLANA,SALAMANCA,915 616 084,,441802.000028796,4476460.00007074
+20,Museo Nacional Centro de Arte Reina Sofía (MNCARS),SANTA ISABEL,52,MADRID,28012,EMBAJADORES,CENTRO,"917 741 000                                                                                         
+",,441111.999987848,4473334.00007071
+21,Museo Nacional Thyssen-Bornemisza,PRADO,8,MADRID,28014,CORTES,CENTRO,"917 911 370                                                                                                                                                                                                                        
+",cav@museothyssen.org,441058.000020082,4474164.00007162
+22,Museo Nacional de Antropología,ALFONSO XII,68,MADRID,28014,LOS JERONIMOS,RETIRO,915 306 418 /915 395 995,antropologico@mecd.es,441549.999978706,4473258.00007134
+23,Museo Nacional de Artes Decorativas,MONTALBAN,12,MADRID,28014,LOS JERONIMOS,RETIRO,915 326 499 / 915 326 845 / 910 505 755 (Reserva actividades infantiles) / 910 505 768 (Biblioteca) 910 505 763 (Atención a investigadores),mnad@mecd.es,441483.000033077,4474369.00014043
+24,Museo Nacional de Ciencias Naturales,JOSE GUTIERREZ ABASCAL,2,MADRID,28006,EL VISO,CHAMARTIN,914 111 328 (centralita),,441462.999972126,4476870.00007173
+25,Museo Naval,PRADO,5,MADRID,28014,LOS JERONIMOS,RETIRO,915 238 516 (martes y viernes de 9 a 14 horas) ,ohculturanaval@fn.mde.es,441336.999995977,4474537.00008241
+26,Museo Postal y Telegráfico,TAPIA DE CASARIEGO,6,MADRID,28023,VALDEMARIN,MONCLOA-ARAVACA,917 401 440 (Museo) / 917 400 664 (Biblioteca),museopostaltelegrafico@correos.com,434911.999971496,4480162.00008017
+27,Museo Sorolla,GENERAL MARTINEZ CAMPOS,37,MADRID,28010,ALMAGRO,CHAMBERI,913 101 584,museo.sorolla@mecd.es,441280.999994265,4476335.00008011
+28,Museo Taurino de la Plaza de las Ventas,ALCALA,237,MADRID,28028,GUINDALERA,SALAMANCA,"912 761 287                 
+",museotaurinolasventas@madrid.org,443774.999988809,4475871.00013254
+29,Museo Tiflológico,LA CORUÑA,18,MADRID,28020,CUATRO CAMINOS,TETUAN,915 894 219,museo@once.es,440739.999981569,4478725.00011152
+30,Museo de Aeronáutica y Astronáutica,A-5,10700,MADRID,28024,CUATRO VIENTOS,LATINA,915 091 690 (centralita),museodelaire@ea.mde.es ,432348.000038618,4469705.00008033
+31,Museo de América,REYES CATOLICOS,6,MADRID,28040,CIUDAD UNIVERSITARIA,MONCLOA-ARAVACA,915 439 437 / 915 492 641,museo.america@mecd.es,438777.000031997,4476615.0000712
+32,Museo de Arte Contemporáneo de Madrid,CONDE DUQUE,9,MADRID,28015,CENTRO,CENTRO,915 885 928  /  915 885 861,mmacmdifusion@madrid.es,439723.000021574,4475437.00013711
+33,Museo de Artes y Tradiciones Populares. Centro Cultural La Corrala,CARLOS ARNICHES,3,MADRID,28005,EMBAJADORES,CENTRO,914 976 500,museoatp@uam.es,440008.000007296,4473582.00009701
+34,Museo de Astronomía y Geodesia,CIENCIAS,3,MADRID,28040,CIUDAD UNIVERSITARIA,MONCLOA-ARAVACA,913 944 615,astronomia_geodesia@mat.ucm.es,438419.000029764,4477894.00010683
+35,Museo de Bomberos,BOADA,4,MADRID,28038,NUMANCIA,PUENTE DE VALLECAS,"91 478 65 72 (Museo),                                                                                                                                           
+                                                                                                                                               
+",jcbomberos@madrid.es,444504.000027686,4471753.0000706
+36,Museo de Calcografía Nacional,ALCALA,13,MADRID,28014,SOL,CENTRO,915 240 864,calcografianacional.archivo@rabasf.org,440667.000032366,4474557.00011601
+37,Museo de Cera,RECOLETOS,41,MADRID,28004,JUSTICIA,CENTRO,913 199 330,info@museoceramadrid.com,441346.999998631,4475094.00013387
+38,Museo de Escultura al Aire Libre de la Castellana,CASTELLANA,40,MADRID,28046,CASTELLANA,SALAMANCA,,mmacmdifusion@madrid.es,441678.000034163,4476070.0000948
+39,Museo de Historia de Madrid,FUENCARRAL,78,MADRID,28004,JUSTICIA,CENTRO,917 011 863,smuseosm@madrid.es,440550.000029871,4475251.00013528
+40,Museo de Historia de la Comunidad Judía de Madrid,BALMES,3,MADRID,28010,TRAFALGAR,CHAMBERI,915 913 131 ,visitas@cjmadrid.org,440738.000032555,4476521.00008184
+41,Museo de Mineralogía,COLMENAR VIEJO,19000,MADRID,28049,EL GOLOSO,FUENCARRAL-EL PARDO,914 974 132,,4.59253787994385E-05,0
+42,Museo de San Isidro. Los Orígenes de Madrid,SAN ANDRES,1,MADRID,28005,PALACIO,CENTRO,913 667 415,museosanisidro@madrid.es,439690.999978712,4473738.00011163
+43,Museo de Sanidad e Higiene Pública,MONFORTE DE LEMOS,5,MADRID,28029,LA PAZ,FUENCARRAL-EL PARDO,918 222 414  (Cita previa),museodesanidad@iscii.es,441617.000032082,4480968.0000936
+44,Museo de la Biblioteca Nacional de España,RECOLETOS,20,MADRID,28001,RECOLETOS,SALAMANCA,915 168 967 / 915 807 759 de lunes a viernes de 9 a 14 horas.,museo@bne.es,441395.000013248,4474937.00010333
+45,Museo de la Catedral de la Almudena,BAILEN,10,MADRID,28013,PALACIO,CENTRO,915 592 874,museo@catedraldelaalmudena.es,439559.999980291,4474332.00011928
+46,Museo de la Farmacia Hispana,RAMON Y CAJAL,0,MADRID,28040,CIUDAD UNIVERSITARIA,MONCLOA-ARAVACA,913 941 797,museofar@ucm.es,438524.000036709,4477559.00008354
+47,Museo de la Guardia Civil,GUZMAN EL BUENO,110,MADRID,28003,VALLEHERMOSO,CHAMBERI,"915 146 000, extensiones 48495 (Oficina Museo), 48477 (Salas Museo), ",dg-estuhistoricos-registro@guardiacivil.org,439703.999971548,4477532.00013322
+48,Museo de la Real Academia de Bellas Artes de San Fernando,ALCALA,13,MADRID,28014,SOL,CENTRO,"915 240 864 (Centralita)                                                    
+",museo@rabasf.org,440558.00003721,4474350.00008564
+49,Museo del Ferrocarril de Madrid,DELICIAS,61,MADRID,28045,DELICIAS,ARGANZUELA,"915 390 085                                                                                
+",,441123.999994773,4472418.00012001
+50,Museo del Prado,RUIZ DE ALARCON,23,MADRID,28014,LOS JERONIMOS,RETIRO,913 302 800,,441346.000037596,4473892.00009605
+51,Museo del Reloj Grassy,GRAN VIA,1,MADRID,28013,CORTES,CENTRO,915 321 007,,440889.000012853,4474721.00012497
+52,Museo del Romanticismo,SAN MATEO,13,MADRID,28004,JUSTICIA,CENTRO,914 481 045 / 914 480 163,informacion.romanticismo@mecd.es,440833.999968393,4475467.00010993
+53,Museo del Seguro. Fundación Mapfre,BARBARA DE BRAGANZA,14,MADRID,28004,JUSTICIA,CENTRO,"916 025 221 (para reservas)                                      
+",,441382.999969889,4475174.00010816
+54,Museo del Traje. Centro de Investigación del Patrimonio Etnológico (CIPE),JUAN DE HERRERA,2,MADRID,28040,CIUDAD UNIVERSITARIA,MONCLOA-ARAVACA,915 504 700 ,,438381.999999207,4477019.00013547
+55,Palacio Real,BAILEN,0,MADRID,28013,PALACIO,CENTRO,914 548 700 (Información general),info@patrimonionacional.es,439540.000037906,4474703.00011372
+56,Palacio Real de El Pardo,MANUEL ALONSO,8,MADRID,28048,EL PARDO,FUENCARRAL-EL PARDO,914 548 700 (Información general),info@patrimonionacional.es,434246.999997249,4485823.00010116
+57,Palacio de Liria,PRINCESA,20,MADRID,28008,UNIVERSIDAD,CENTRO,915 475 302 / 915 481 550,info@fundacioncasadealba.com,439662.999970697,4475582.00010658
+58,Panteón de Hombres Ilustres,JULIAN GAYARRE,3,MADRID,28014,PACIFICO,RETIRO,914 548 700 (Información general),info@patrimonionacional.es,442120.999988729,4473278.0000788
+59,Parroquia Santa Cruz,ATOCHA,6,MADRID,28012,SOL,CENTRO,913 691 239,parroquiadesantacruz@hotmail.com / santacruz@archimadrid.es,440273.999986735,4474223.00012644
+60,Planetario de Madrid,PLANETARIO,16,MADRID,28045,LEGAZPI,ARGANZUELA,"914 673 461 (reserva grupos)                                                                                                                                                                                                                                                                                                                                                                                                                                               
+914 673 898 (contestador automático de información)",buzon@planetmad.es,441868.000005107,4471523.00012446
+61,Real Basílica San Francisco el Grande,SAN BUENAVENTURA,1,MADRID,28005,PALACIO,CENTRO,913 653 800 ,,439486.999968008,4473811.0001274
+62,Real Fábrica de Tapices,FUENTERRABIA,2,MADRID,28014,PACIFICO,RETIRO,914 340 550,informacion@realfabricadetapices.com,442197.0000365,4473262.00014063
+63,Real Monasterio de Santa Isabel,SANTA ISABEL,48,MADRID,28012,EMBAJADORES,CENTRO,914 548 700 (Información general),info@patrimonionacional.es,440654.999998654,4473736.00008869
+64,Real Monasterio de la Encarnación,ENCARNACION,1,MADRID,28013,PALACIO,CENTRO,914 548 700 (Información general),info@patrimonionacional.es,439633.999966696,4474582.00007149
+65,Templo de Debod,FERRAZ,1,MADRID,28008,CASA DE CAMPO,MONCLOA-ARAVACA,913 667 415 (Museo de San Isidro / Templo de Debod),templodebod@madrid.es,439217.99998525,4475093.00011843
+66,The Robot Museum (Museo del Robot),ALBERTO AGUILERA,1,MADRID,28015,UNIVERSIDAD,CENTRO,914 478 808,,440040.999992867,4475669.00007183
+67,Yacimiento paleontológico. Estación de Metro Carpetana,VIA CARPETANA,328,MADRID,28047,ALUCHE,LATINA,902 444 403 (Información),,436951.999989494,4471478.00013441

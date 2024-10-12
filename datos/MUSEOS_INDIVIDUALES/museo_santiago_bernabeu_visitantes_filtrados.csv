@@ -1,0 +1,101 @@
+Museo,Género,Renta Anual (€),Nivel de Estudios,Edad,Locales (%),Nacionales (%),Internacionales (%),Visitantes por Grupo,Porcentaje Locales (%),Porcentaje Nacionales (%),Porcentaje Internacionales (%)
+Museo Santiago Bernabéu,Femenino,"20,000€ - 40,000€",Educación Secundaria,>50,61,22,10,105,65.59139784946237,23.655913978494624,10.75268817204301
+Museo Santiago Bernabéu,Masculino,">40,000€",Educación Secundaria,36-50,31,12,24,81,46.26865671641791,17.91044776119403,35.82089552238806
+Museo Santiago Bernabéu,Masculino,">40,000€",Educación Secundaria,<18,53,27,12,133,57.608695652173914,29.347826086956523,13.043478260869565
+Museo Santiago Bernabéu,Masculino,">40,000€",Educación Primaria,36-50,56,21,38,31,48.69565217391305,18.26086956521739,33.04347826086956
+Museo Santiago Bernabéu,Masculino,"<20,000€",Educación Primaria,36-50,47,41,22,190,42.72727272727273,37.27272727272727,20.0
+Museo Santiago Bernabéu,Masculino,"20,000€ - 40,000€",Postgrado o Doctorado,36-50,22,40,39,123,21.782178217821784,39.603960396039604,38.613861386138616
+Museo Santiago Bernabéu,Masculino,"<20,000€",Postgrado o Doctorado,18-35,27,46,37,150,24.545454545454547,41.81818181818181,33.63636363636363
+Museo Santiago Bernabéu,Femenino,"<20,000€",Educación Primaria,36-50,43,33,19,147,45.26315789473684,34.73684210526316,20.0
+Museo Santiago Bernabéu,Femenino,"<20,000€",Postgrado o Doctorado,>50,61,24,23,62,56.481481481481474,22.22222222222222,21.296296296296298
+Museo Santiago Bernabéu,Masculino,">40,000€",Educación Primaria,36-50,30,47,17,52,31.914893617021278,50.0,18.085106382978726
+Museo Santiago Bernabéu,Femenino,">40,000€",Educación Secundaria,<18,56,45,11,166,50.0,40.17857142857143,9.821428571428571
+Museo Santiago Bernabéu,Masculino,"<20,000€",Educación Secundaria,36-50,66,40,22,137,51.5625,31.25,17.1875
+Museo Santiago Bernabéu,Masculino,"20,000€ - 40,000€",Postgrado o Doctorado,>50,51,23,19,26,54.83870967741935,24.731182795698924,20.43010752688172
+Museo Santiago Bernabéu,Masculino,"<20,000€",Educación Secundaria,>50,26,23,10,19,44.06779661016949,38.983050847457626,16.94915254237288
+Museo Santiago Bernabéu,Femenino,"20,000€ - 40,000€",Educación Secundaria,<18,68,14,32,178,59.64912280701754,12.280701754385964,28.07017543859649
+Museo Santiago Bernabéu,Masculino,">40,000€",Educación Primaria,<18,31,36,39,190,29.245283018867923,33.9622641509434,36.79245283018868
+Museo Santiago Bernabéu,Femenino,">40,000€",Educación Secundaria,>50,48,46,35,142,37.2093023255814,35.65891472868217,27.131782945736433
+Museo Santiago Bernabéu,Femenino,"<20,000€",Educación Primaria,36-50,28,40,27,55,29.47368421052631,42.10526315789473,28.421052631578945
+Museo Santiago Bernabéu,Femenino,"<20,000€",Postgrado o Doctorado,<18,41,40,34,101,35.65217391304348,34.78260869565217,29.565217391304348
+Museo Santiago Bernabéu,Masculino,"20,000€ - 40,000€",Estudios Universitarios,36-50,43,18,23,168,51.19047619047619,21.428571428571427,27.380952380952383
+Museo Santiago Bernabéu,Femenino,"20,000€ - 40,000€",Educación Primaria,36-50,39,47,11,97,40.20618556701031,48.45360824742268,11.34020618556701
+Museo Santiago Bernabéu,Masculino,"<20,000€",Estudios Universitarios,>50,32,35,13,114,40.0,43.75,16.25
+Museo Santiago Bernabéu,Masculino,"<20,000€",Educación Primaria,>50,44,44,12,142,44.0,44.0,12.0
+Museo Santiago Bernabéu,Femenino,"<20,000€",Educación Secundaria,36-50,49,35,18,73,48.03921568627451,34.31372549019608,17.647058823529413
+Museo Santiago Bernabéu,Masculino,">40,000€",Postgrado o Doctorado,<18,26,17,10,168,49.056603773584904,32.075471698113205,18.867924528301888
+Museo Santiago Bernabéu,Masculino,"20,000€ - 40,000€",Estudios Universitarios,18-35,34,12,13,54,57.6271186440678,20.33898305084746,22.033898305084744
+Museo Santiago Bernabéu,Masculino,">40,000€",Educación Secundaria,36-50,36,16,14,138,54.54545454545454,24.242424242424242,21.21212121212121
+Museo Santiago Bernabéu,Femenino,"20,000€ - 40,000€",Educación Primaria,<18,37,30,31,36,37.755102040816325,30.612244897959183,31.63265306122449
+Museo Santiago Bernabéu,Masculino,">40,000€",Estudios Universitarios,36-50,45,29,39,102,39.823008849557525,25.663716814159294,34.51327433628318
+Museo Santiago Bernabéu,Masculino,"<20,000€",Estudios Universitarios,18-35,49,33,32,37,42.98245614035088,28.947368421052634,28.07017543859649
+Museo Santiago Bernabéu,Masculino,">40,000€",Educación Secundaria,<18,50,20,30,193,50.0,20.0,30.0
+Museo Santiago Bernabéu,Masculino,"20,000€ - 40,000€",Estudios Universitarios,18-35,43,24,37,5,41.34615384615385,23.076923076923077,35.57692307692308
+Museo Santiago Bernabéu,Masculino,">40,000€",Postgrado o Doctorado,36-50,66,21,39,20,52.38095238095239,16.666666666666664,30.952380952380953
+Museo Santiago Bernabéu,Masculino,"20,000€ - 40,000€",Postgrado o Doctorado,>50,32,26,13,106,45.07042253521127,36.61971830985916,18.30985915492958
+Museo Santiago Bernabéu,Femenino,">40,000€",Educación Primaria,>50,34,33,10,143,44.15584415584416,42.857142857142854,12.987012987012985
+Museo Santiago Bernabéu,Femenino,"20,000€ - 40,000€",Estudios Universitarios,<18,54,14,34,23,52.94117647058824,13.725490196078432,33.33333333333333
+Museo Santiago Bernabéu,Masculino,">40,000€",Estudios Universitarios,<18,56,19,31,92,52.83018867924528,17.92452830188679,29.245283018867923
+Museo Santiago Bernabéu,Masculino,"<20,000€",Postgrado o Doctorado,<18,35,30,13,128,44.871794871794876,38.46153846153847,16.666666666666664
+Museo Santiago Bernabéu,Femenino,"<20,000€",Postgrado o Doctorado,>50,44,49,10,47,42.71844660194174,47.57281553398058,9.70873786407767
+Museo Santiago Bernabéu,Femenino,"20,000€ - 40,000€",Estudios Universitarios,>50,22,19,13,67,40.74074074074074,35.18518518518518,24.074074074074073
+Museo Santiago Bernabéu,Femenino,"20,000€ - 40,000€",Educación Primaria,>50,27,16,10,138,50.943396226415096,30.18867924528302,18.867924528301888
+Museo Santiago Bernabéu,Femenino,">40,000€",Postgrado o Doctorado,<18,33,15,21,122,47.82608695652174,21.73913043478261,30.434782608695656
+Museo Santiago Bernabéu,Masculino,">40,000€",Estudios Universitarios,18-35,65,32,11,93,60.18518518518518,29.629629629629626,10.185185185185185
+Museo Santiago Bernabéu,Masculino,">40,000€",Postgrado o Doctorado,18-35,27,10,19,53,48.214285714285715,17.857142857142858,33.92857142857143
+Museo Santiago Bernabéu,Masculino,">40,000€",Educación Primaria,<18,28,30,17,68,37.333333333333336,40.0,22.666666666666664
+Museo Santiago Bernabéu,Femenino,"20,000€ - 40,000€",Estudios Universitarios,18-35,35,42,11,164,39.77272727272727,47.72727272727273,12.5
+Museo Santiago Bernabéu,Masculino,"<20,000€",Postgrado o Doctorado,>50,48,32,20,44,48.0,32.0,20.0
+Museo Santiago Bernabéu,Femenino,"<20,000€",Educación Secundaria,<18,50,26,14,154,55.55555555555556,28.888888888888886,15.555555555555555
+Museo Santiago Bernabéu,Masculino,"20,000€ - 40,000€",Estudios Universitarios,<18,39,23,30,30,42.391304347826086,25.0,32.608695652173914
+Museo Santiago Bernabéu,Masculino,"<20,000€",Estudios Universitarios,>50,33,32,37,78,32.35294117647059,31.372549019607842,36.27450980392157
+Museo Santiago Bernabéu,Masculino,">40,000€",Educación Primaria,>50,26,46,13,55,30.58823529411765,54.11764705882353,15.294117647058824
+Museo Santiago Bernabéu,Femenino,"<20,000€",Educación Primaria,<18,33,33,29,178,34.73684210526316,34.73684210526316,30.526315789473685
+Museo Santiago Bernabéu,Masculino,">40,000€",Educación Primaria,36-50,46,26,14,160,53.48837209302325,30.23255813953488,16.27906976744186
+Museo Santiago Bernabéu,Masculino,">40,000€",Educación Primaria,<18,57,32,30,197,47.89915966386555,26.89075630252101,25.210084033613445
+Museo Santiago Bernabéu,Masculino,"<20,000€",Postgrado o Doctorado,<18,33,13,14,152,55.00000000000001,21.666666666666668,23.333333333333332
+Museo Santiago Bernabéu,Femenino,">40,000€",Educación Secundaria,18-35,30,24,39,166,32.25806451612903,25.806451612903224,41.935483870967744
+Museo Santiago Bernabéu,Masculino,">40,000€",Estudios Universitarios,<18,47,34,23,194,45.19230769230769,32.69230769230769,22.115384615384613
+Museo Santiago Bernabéu,Femenino,">40,000€",Estudios Universitarios,18-35,34,48,35,147,29.059829059829063,41.02564102564102,29.914529914529915
+Museo Santiago Bernabéu,Masculino,"<20,000€",Postgrado o Doctorado,>50,59,23,18,108,59.0,23.0,18.0
+Museo Santiago Bernabéu,Masculino,"<20,000€",Educación Primaria,36-50,36,13,30,113,45.56962025316456,16.455696202531644,37.9746835443038
+Museo Santiago Bernabéu,Femenino,"<20,000€",Postgrado o Doctorado,>50,54,25,10,176,60.67415730337079,28.08988764044944,11.235955056179774
+Museo Santiago Bernabéu,Femenino,">40,000€",Estudios Universitarios,36-50,35,49,15,9,35.35353535353536,49.494949494949495,15.151515151515152
+Museo Santiago Bernabéu,Femenino,">40,000€",Educación Secundaria,36-50,56,10,24,41,62.22222222222222,11.11111111111111,26.666666666666668
+Museo Santiago Bernabéu,Masculino,"<20,000€",Postgrado o Doctorado,36-50,46,11,18,12,61.33333333333333,14.666666666666666,24.0
+Museo Santiago Bernabéu,Femenino,"<20,000€",Educación Primaria,>50,50,21,19,148,55.55555555555556,23.333333333333332,21.11111111111111
+Museo Santiago Bernabéu,Femenino,">40,000€",Educación Secundaria,36-50,24,21,15,119,40.0,35.0,25.0
+Museo Santiago Bernabéu,Masculino,">40,000€",Postgrado o Doctorado,18-35,49,31,32,16,43.75,27.67857142857143,28.57142857142857
+Museo Santiago Bernabéu,Masculino,"<20,000€",Postgrado o Doctorado,<18,59,14,38,71,53.153153153153156,12.612612612612612,34.234234234234236
+Museo Santiago Bernabéu,Masculino,"20,000€ - 40,000€",Estudios Universitarios,>50,36,32,12,60,45.0,40.0,15.0
+Museo Santiago Bernabéu,Femenino,"<20,000€",Educación Primaria,36-50,40,38,32,123,36.36363636363637,34.54545454545455,29.09090909090909
+Museo Santiago Bernabéu,Femenino,"20,000€ - 40,000€",Educación Primaria,<18,58,36,31,115,46.400000000000006,28.799999999999997,24.8
+Museo Santiago Bernabéu,Femenino,"<20,000€",Estudios Universitarios,18-35,34,26,29,7,38.20224719101123,29.213483146067414,32.58426966292135
+Museo Santiago Bernabéu,Femenino,">40,000€",Estudios Universitarios,18-35,32,47,23,161,31.372549019607842,46.07843137254902,22.54901960784314
+Museo Santiago Bernabéu,Masculino,"20,000€ - 40,000€",Postgrado o Doctorado,36-50,46,12,38,75,47.91666666666667,12.5,39.58333333333333
+Museo Santiago Bernabéu,Masculino,">40,000€",Estudios Universitarios,<18,39,34,38,96,35.13513513513514,30.630630630630627,34.234234234234236
+Museo Santiago Bernabéu,Femenino,">40,000€",Estudios Universitarios,18-35,56,23,32,57,50.45045045045045,20.72072072072072,28.82882882882883
+Museo Santiago Bernabéu,Femenino,">40,000€",Postgrado o Doctorado,<18,33,13,18,110,51.5625,20.3125,28.125
+Museo Santiago Bernabéu,Masculino,"20,000€ - 40,000€",Estudios Universitarios,<18,62,37,38,154,45.25547445255474,27.00729927007299,27.73722627737226
+Museo Santiago Bernabéu,Masculino,">40,000€",Postgrado o Doctorado,>50,26,49,33,4,24.074074074074073,45.370370370370374,30.555555555555557
+Museo Santiago Bernabéu,Masculino,"20,000€ - 40,000€",Estudios Universitarios,<18,43,34,15,131,46.73913043478261,36.95652173913043,16.304347826086957
+Museo Santiago Bernabéu,Femenino,"20,000€ - 40,000€",Educación Primaria,<18,39,15,17,130,54.929577464788736,21.12676056338028,23.943661971830984
+Museo Santiago Bernabéu,Masculino,"20,000€ - 40,000€",Estudios Universitarios,>50,54,11,39,4,51.92307692307693,10.576923076923077,37.5
+Museo Santiago Bernabéu,Masculino,"20,000€ - 40,000€",Educación Secundaria,36-50,62,28,23,186,54.86725663716814,24.778761061946902,20.353982300884958
+Museo Santiago Bernabéu,Masculino,"20,000€ - 40,000€",Estudios Universitarios,36-50,69,32,26,3,54.330708661417326,25.196850393700785,20.47244094488189
+Museo Santiago Bernabéu,Masculino,">40,000€",Estudios Universitarios,>50,51,45,36,177,38.63636363636363,34.090909090909086,27.27272727272727
+Museo Santiago Bernabéu,Femenino,">40,000€",Educación Primaria,<18,41,25,19,36,48.23529411764706,29.411764705882355,22.35294117647059
+Museo Santiago Bernabéu,Masculino,">40,000€",Educación Primaria,>50,48,24,32,61,46.15384615384615,23.076923076923077,30.76923076923077
+Museo Santiago Bernabéu,Femenino,"<20,000€",Estudios Universitarios,>50,50,31,25,31,47.16981132075472,29.245283018867923,23.58490566037736
+Museo Santiago Bernabéu,Femenino,">40,000€",Educación Primaria,>50,47,41,27,2,40.869565217391305,35.65217391304348,23.47826086956522
+Museo Santiago Bernabéu,Femenino,">40,000€",Educación Secundaria,<18,65,36,18,79,54.621848739495796,30.252100840336134,15.126050420168067
+Museo Santiago Bernabéu,Femenino,"20,000€ - 40,000€",Postgrado o Doctorado,<18,66,13,22,124,65.34653465346535,12.871287128712872,21.782178217821784
+Museo Santiago Bernabéu,Femenino,"20,000€ - 40,000€",Estudios Universitarios,>50,46,18,26,147,51.11111111111111,20.0,28.888888888888886
+Museo Santiago Bernabéu,Masculino,">40,000€",Estudios Universitarios,18-35,56,11,20,47,64.36781609195403,12.643678160919542,22.988505747126435
+Museo Santiago Bernabéu,Masculino,"20,000€ - 40,000€",Estudios Universitarios,18-35,34,40,15,170,38.20224719101123,44.9438202247191,16.853932584269664
+Museo Santiago Bernabéu,Masculino,"<20,000€",Educación Secundaria,<18,27,49,26,75,26.47058823529412,48.03921568627451,25.49019607843137
+Museo Santiago Bernabéu,Masculino,"<20,000€",Estudios Universitarios,36-50,38,31,11,191,47.5,38.75,13.750000000000002
+Museo Santiago Bernabéu,Masculino,"20,000€ - 40,000€",Educación Secundaria,<18,23,33,39,183,24.210526315789473,34.73684210526316,41.05263157894737
+Museo Santiago Bernabéu,Femenino,"<20,000€",Educación Secundaria,18-35,48,28,33,179,44.03669724770643,25.688073394495415,30.275229357798167
+Museo Santiago Bernabéu,Masculino,">40,000€",Educación Primaria,36-50,37,12,24,171,50.68493150684932,16.43835616438356,32.87671232876712
+Museo Santiago Bernabéu,Femenino,"20,000€ - 40,000€",Educación Secundaria,18-35,32,26,22,105,40.0,32.5,27.500000000000004
