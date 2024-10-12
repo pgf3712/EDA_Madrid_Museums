@@ -1,11 +1,12 @@
-,Museo,Entrada general,Día gratuito,Precio reducido,Descuento por edad,Notas adicionales
+Unnamed: 0,Museo,Entrada general,Día gratuito,Precio reducido,Descuento por edad,Notas adicionales
 0,Museo del Prado,15€,"Lunes a Sábado 18:00-20:00, Domingos 17:00-19:00","7,50€ (estudiantes, mayores de 65)",Gratis menores de 18 y mayores de 65,Entrada gratuita para desempleados
 1,Museo Reina Sofía,10€,"Lunes y Miércoles a Sábado 19:00-21:00, Domingos 13:30-14:30","8€ (estudiantes, mayores de 65)",Gratis menores de 18 y mayores de 65,Gratis para jubilados y desempleados
 2,Museo Thyssen-Bornemisza,13€,Lunes 12:00-16:00 (colección permanente),"9€ (estudiantes, mayores de 65)",Gratis menores de 18 y mayores de 65,Entrada combinada con exposiciones temporales
 3,Museo Arqueológico Nacional,3€,"Sábados desde 14:00, Domingos y festivos","1,50€ (estudiantes, mayores de 65)",Gratis menores de 18 y mayores de 65,Entrada gratuita en fechas señaladas
 4,Museo Sorolla,3€,"Sábados desde 14:00, Domingos y festivos","1,50€ (estudiantes, mayores de 65)",Gratis menores de 18 y mayores de 65,Exposiciones temporales incluidas
 5,Museo Cerralbo,3€,"Jueves desde 17:00, Sábados desde 14:00","1,50€ (estudiantes, mayores de 65)",Gratis menores de 18 y mayores de 65,Entrada gratuita para jubilados
-6,Museo de Historia de Madrid,Gratis,Siempre gratuito,N/A,N/A,Sin coste para ninguna visita
-7,CaixaForum Madrid,6€,No hay día gratuito regular,"3€ (estudiantes, mayores de 65)",N/A,Gratis para clientes de CaixaBank
+6,Museo de Historia de Madrid,Gratis,Siempre gratuito,,,Sin coste para ninguna visita
+7,CaixaForum Madrid,6€,No hay día gratuito regular,"3€ (estudiantes, mayores de 65)",,Gratis para clientes de CaixaBank
 8,Museo Nacional de Ciencias Naturales,7€,No hay día gratuito regular,"3,50€ (estudiantes, mayores de 65)",Gratis menores de 4 años,Entrada gratuita para socios del MNCN
 9,Museo del Romanticismo,3€,"Sábados desde 14:00, Domingos y festivos","1,50€ (estudiantes, mayores de 65)",Gratis menores de 18 y mayores de 65,Entrada gratuita en fechas señaladas
+10,Museo Santiago Bernabéu,25€,No tiene,"18€ (estudiantes, mayores de 65)",Gratis menores de 5 años,Entrada incluye visita al estadio
