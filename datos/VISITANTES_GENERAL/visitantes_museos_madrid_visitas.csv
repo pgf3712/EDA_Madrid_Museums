@@ -1,12 +1,12 @@
-Museo,Visitantes_Hombres (%),Visitantes_Mujeres (%),Edad_<18 (%),Edad_18-35 (%),Edad_36-50 (%),Edad_>50 (%),Locales (%),Nacionales (%),Internacionales (%)
-Museo del Prado,45,55,10,35,30,25,40,35,25
-Museo Reina Sofía,43,57,12,40,25,23,35,40,25
-Museo Thyssen-Bornemisza,47,53,9,38,28,25,30,35,35
-Museo Arqueológico Nacional,50,50,8,30,35,27,25,45,30
-Museo Sorolla,42,58,5,28,30,37,50,30,20
-Museo Cerralbo,49,51,6,34,32,28,45,40,15
-Museo de Historia de Madrid,48,52,7,36,33,24,60,30,10
-CaixaForum Madrid,44,56,11,39,28,22,32,38,30
-Museo Nacional de Ciencias Naturales,46,54,10,32,30,28,34,40,26
-Museo del Romanticismo,41,59,4,29,34,33,48,35,17
-Museo Santiago Bernabéu,60,40,15,45,30,10,30,40,30
+,Museo,Visitantes_Hombres (%),Visitantes_Mujeres (%),Edad_<18 (%),Edad_18-35 (%),Edad_36-50 (%),Edad_>50 (%),Locales (%),Nacionales (%),Internacionales (%)
+0,Museo del Prado,45,55,10,35,30,25,40,35,25
+1,Museo Reina Sofía,43,57,12,40,25,23,35,40,25
+2,Museo Santiago Bernabéu,60,40,15,45,30,10,30,40,30
+3,Museo Thyssen-Bornemisza,47,53,9,38,28,25,30,35,35
+4,CaixaForum Madrid,44,56,11,39,28,22,32,38,30
+5,Museo Nacional de Ciencias Naturales,46,54,10,32,30,30,34,40,26
+6,Museo Arqueológico Nacional,50,50,8,30,35,27,25,45,30
+7,Museo Sorolla,42,58,5,28,30,37,50,30,20
+8,Museo Cerralbo,49,51,6,34,32,28,45,40,15
+9,Museo de Historia de Madrid,48,52,7,36,33,24,60,30,10
+10,Museo del Romanticismo,41,59,4,29,34,33,48,35,17

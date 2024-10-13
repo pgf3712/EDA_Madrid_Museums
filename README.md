@@ -29,3 +29,5 @@ Se han incluido datos para los siguientes museos:
 3. **Procedencia**: Visitantes locales (Madrid), nacionales (España) e internacionales.
 4. **Temáticas de las Exposiciones**: Arte clásico, contemporáneo, arqueología, historia, etc.
 5. **Preferencias Demográficas**: Museos que atraen más a hombres, mujeres o públicos neutros.
+
+
