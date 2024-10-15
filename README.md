@@ -1,33 +1,55 @@
-# EDA_Madrid_Museums
-Visitor Analysis in Major Museums of the Madrid Region
-# Análisis de Visitantes en Museos de Madrid y el Museo Santiago Bernabéu
+📊 README: Análisis Exploratorio de Datos del Consumo de Actividades Culturales en Madrid
+Autor: Paula García Fernández
+Fecha: Octubre 2024
 
-## 📖 Descripción
+🌟 Descripción del Proyecto
+Este proyecto presenta un análisis exploratorio de datos (EDA) sobre el consumo de actividades culturales en la Comunidad de Madrid, utilizando información sobre los visitantes y participantes de eventos organizados en museos y otras instituciones culturales, especialmente dentro del programa JOBO (Joven Bono Cultural).
 
-Este proyecto tiene como objetivo analizar los patrones de afluencia de visitantes a los museos más importantes de Madrid. Se ha recopilado información detallada sobre el número de visitantes, su distribución por sexo, edades, procedencia, y las preferencias temáticas. También se incluye un análisis de la oferta de exposiciones temporales y permanentes de cada museo, así como las tendencias demográficas de los visitantes.
+El objetivo principal es obtener una visión detallada del comportamiento cultural de los consumidores y cómo varía a lo largo de los años, con especial énfasis en el uso de JOBO. El análisis abarca diferentes sectores culturales como artes escénicas, museos y exposiciones, monumentos, cine, entre otros.
 
-## 📊 Datos Analizados
+📁 Contenido del Proyecto
+Datos Analizados:
 
-Se han incluido datos para los siguientes museos:
+Participación en actividades culturales por años (2018-2023).
+Comparativa de los visitantes por tipo de actividad (artes escénicas, museos, cine, etc.).
+Segmentación de los consumidores según variables demográficas, como nivel educativo y rangos de ingresos.
+Consumo de cultura en diferentes museos de Madrid.
+JOBO:
 
-- Museo del Prado
-- Museo Reina Sofía
-- Museo Thyssen-Bornemisza
-- Museo Arqueológico Nacional
-- Museo Sorolla
-- Museo Cerralbo
-- Museo de Historia de Madrid
-- CaixaForum Madrid
-- Museo Nacional de Ciencias Naturales
-- Museo del Romanticismo
-- Museo Santiago Bernabéu
+Se analizó el uso del programa JOBO desde su creación hasta 2023.
+Comparativa del crecimiento anual en el número de usuarios.
+Distribución de los consumidores JOBO por sectores culturales.
+Museos de Madrid:
 
-### Variables Clave
+Se incluyeron estadísticas detalladas de los visitantes a museos relevantes en la Comunidad de Madrid.
+Comparativa de visitantes por museo (Museo del Prado, Reina Sofía, etc.).
+Análisis de los factores que influyen en la variación de visitantes.
+🛠️ Metodología
+El proyecto utilizó técnicas de análisis exploratorio de datos (EDA) para identificar patrones y tendencias significativas en los datos. Las herramientas utilizadas incluyen:
 
-1. **Número de Visitantes**: Proporción de hombres y mujeres que visitan cada museo.
-2. **Distribución por Edad**: Visitantes agrupados en cuatro categorías de edad: menores de 18, 18-35, 36-50, y mayores de 50.
-3. **Procedencia**: Visitantes locales (Madrid), nacionales (España) e internacionales.
-4. **Usuarios JOBO**: Arte clásico, contemporáneo, arqueología, historia, etc.
-5. **Preferencias Demográficas**: Museos que atraen más a hombres, mujeres, su renta media, nivel de estudios, etc.
+Python: Lenguaje de programación usado para la limpieza y análisis de datos.
+Librerías de visualización: Se utilizaron matplotlib y folium para la creación de gráficos y mapas interactivos que representan la distribución de visitantes y consumidores JOBO.
+Datos geoespaciales: Se trabajó con un archivo GeoJSON para mapear la distribución de los usuarios de JOBO a nivel de comunidades autónomas.
+✨ Resultados Destacados
+Crecimiento de JOBO: Desde 2018 hasta 2023, se observó un aumento progresivo en el uso del bono cultural, con un pico significativo en 2023.
+Preferencias Culturales: Las actividades más populares entre los jóvenes fueron las artes escénicas y los museos y exposiciones, seguidas por el cine.
+Distribución Geográfica: El programa JOBO tuvo una mayor adopción en la Comunidad de Madrid, destacándose especialmente el Museo del Prado en términos de visitas.
+📈 Visualización de Datos
+Se incluyen gráficos y mapas que muestran:
+
+Evolución de los usuarios de JOBO por año y por tipo de actividad.
+Mapa interactivo con la distribución de usuarios de JOBO en 2023 a nivel regional.
+Gráfico de barras y líneas que detallan la evolución de los visitantes a museos clave en Madrid.
+✅ Conclusión
+Este análisis proporciona una visión detallada sobre el impacto del bono cultural JOBO en Madrid, revelando importantes tendencias en el consumo cultural por parte de los jóvenes. El crecimiento de JOBO y la preferencia por actividades como las artes escénicas y los museos muestran la efectividad de estas iniciativas para promover la cultura entre las nuevas generaciones.
+
+Contacto:
+Paula García Fernández
+✉️ Email: paula.garcia@example.com
+🔗 LinkedIn: Paula García
+
+Este archivo README es un resumen del análisis completo. Si deseas explorar los gráficos y datos en mayor detalle, te invito a consultar los notebooks y recursos visuales disponibles en el repositorio. 🎨📊
+
+Espero que te guste este README con un toque más visual y amigable. Si necesitas más detalles o algún otro ajuste, ¡solo dime! 😊
 
 
