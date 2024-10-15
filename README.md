@@ -27,7 +27,7 @@ Se han incluido datos para los siguientes museos:
 1. **Número de Visitantes**: Proporción de hombres y mujeres que visitan cada museo.
 2. **Distribución por Edad**: Visitantes agrupados en cuatro categorías de edad: menores de 18, 18-35, 36-50, y mayores de 50.
 3. **Procedencia**: Visitantes locales (Madrid), nacionales (España) e internacionales.
-4. **Temáticas de las Exposiciones**: Arte clásico, contemporáneo, arqueología, historia, etc.
-5. **Preferencias Demográficas**: Museos que atraen más a hombres, mujeres o públicos neutros.
+4. **Usuarios JOBO**: Arte clásico, contemporáneo, arqueología, historia, etc.
+5. **Preferencias Demográficas**: Museos que atraen más a hombres, mujeres, su renta media, nivel de estudios, etc.
 
 
