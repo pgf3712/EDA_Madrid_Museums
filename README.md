@@ -60,7 +60,6 @@ Este análisis proporciona una visión detallada sobre el impacto del bono cultu
 **Contacto:**  
 Paula García Fernández  
 ✉️ Email: infopaulagarciafernandez@gmail.com  
-🔗 [LinkedIn: Paula García](https://linkedin.com/in/paulagarcia)
 
 ---
 
