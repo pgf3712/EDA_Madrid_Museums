@@ -97,6 +97,3 @@ Paula García Fernández
 ---
 
 Este archivo README es un resumen del análisis completo. Si deseas explorar los gráficos y datos en mayor detalle, te invito a consultar los notebooks y recursos visuales disponibles en el repositorio. 🎨📊
-
-
-
